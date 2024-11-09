@@ -1,0 +1,18 @@
+.services-section {
+  padding: 2rem;
+  background-color: #eef;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.service-card {
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 300px;
+}

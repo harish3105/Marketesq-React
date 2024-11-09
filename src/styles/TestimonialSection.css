@@ -1,0 +1,18 @@
+.testimonials-section {
+  padding: 2rem;
+  background-color: #fef9e7;
+}
+
+.testimonial-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.testimonial-card {
+  background: #fff3cd;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 300px;
+}

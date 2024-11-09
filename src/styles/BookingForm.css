@@ -1,0 +1,24 @@
+.booking-form {
+  background: #f4f4f4;
+  padding: 1.5rem;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 2rem auto;
+}
+
+.booking-form label {
+  display: block;
+  margin-top: 1rem;
+}
+
+.booking-form input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.booking-form button {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  width: 100%;
+}
